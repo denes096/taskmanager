@@ -1,3 +1,6 @@
+## Requirements
+- Docker
+
 ## Setup
 
 - git clone git@github.com:denes096/taskmanager.git
@@ -10,3 +13,5 @@
 - sail artisan db:seed
 - sail npm install
 - sail npm build
+
+visit: http://localhost
